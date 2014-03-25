@@ -1,0 +1,7 @@
+/* Foundation was made by ZURB, an interaction design and design strategy firm in Campbell, CA */
+/* humanstxt.org */
+
+/* SITE */
+  Standards: HTML5, CSS3, YOLO, SWAG
+  Components: jQuery, Orbit, Reveal, BootstrapFoundationFive
+  Software: Sublime, Git, Sass, Syss, LiveJournal
